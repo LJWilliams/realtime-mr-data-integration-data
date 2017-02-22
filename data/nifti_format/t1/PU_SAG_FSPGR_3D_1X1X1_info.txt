@@ -1,0 +1,32 @@
+Series UID: 1.2.840.113619.2.5.17182220414304306201430430620967000
+Study date: 20150430
+Study time: 144251
+Series date: 20150430
+Series time: 145025
+Subject: Physio Test
+Subject birth date: 
+Series description: PU:SAG FSPGR 3D 1X1X1
+Image type: DERIVED\PRIMARY\OTHER
+Manufacturer: GE MEDICAL SYSTEMS
+Model name: DISCOVERY MR750
+Software version: 24\LX\MR Software release:DV24.0_R01_1344.a
+Study id: 1264
+Series number: 400
+Repetition time (ms): 8.152
+Echo time[1] (ms): 3.172
+Inversion time (ms): 450
+Flip angle: 12
+Number of averages: 1
+Slice thickness (mm): 1
+Slice spacing (mm): 1
+Image columns: 256
+Image rows: 256
+Phase encoding direction: ROW
+Voxel size x (mm): 1
+Voxel size y (mm): 1
+Number of volumes: 1
+Number of slices: 182
+Number of files: 182
+Number of frames: 0
+Slice duration (ms) : 0
+Orientation: sag

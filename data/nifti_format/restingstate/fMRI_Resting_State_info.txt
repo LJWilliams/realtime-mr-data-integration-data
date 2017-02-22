@@ -1,0 +1,32 @@
+Series UID: 1.2.840.113619.2.353.4120.11617166.8628.1430406725.391
+Study date: 20150430
+Study time: 144251
+Series date: 20150430
+Series time: 151012
+Subject: Physio Test
+Subject birth date: 
+Series description: fMRI Resting State
+Image type: ORIGINAL\PRIMARY\EPI\NONE
+Manufacturer: GE MEDICAL SYSTEMS
+Model name: DISCOVERY MR750
+Software version: 24\LX\MR Software release:DV24.0_R01_1344.a
+Study id: 1264
+Series number: 8
+Repetition time (ms): 3000
+Echo time[1] (ms): 30
+Flip angle: 90
+Number of averages: 1
+Slice thickness (mm): 3
+Slice spacing (mm): 3
+Image columns: 96
+Image rows: 96
+Phase encoding direction: COL
+Voxel size x (mm): 3
+Voxel size y (mm): 3
+Number of volumes: 120
+Number of slices: 50
+Number of files: 6000
+Number of frames: 0
+Slice duration (ms) : 0
+Volume interval (s): 0
+Orientation: tra
